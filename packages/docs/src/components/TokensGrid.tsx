@@ -1,10 +1,8 @@
+import '../styles/tokens-grid.css'
 interface TokensGridProps {
   tokens: Record<string, string>;
   hasRemValue?: boolean
 }
-
-import '../styles/tokens-grid.css'
-
 
 export function TokensGrid({ tokens, hasRemValue = false }: TokensGridProps) {
   return (
