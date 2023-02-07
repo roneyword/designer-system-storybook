@@ -1,0 +1,2 @@
+import{c as r}from"./index.f45995e0.js";import"./index.f80c2e97.js";import"./iframe.68ac2934.js";import"./index.7fe6f9d5.js";import"./jsx-runtime.00775778.js";const s={title:"Typograph/TextInput",component:r,args:{}},p={args:{placeholder:"Type your name"}},m={args:{disabled:!0}},n={args:{prefix:"cal.com"}},c=["Primary","Disabled","WhitPrefix"];export{m as Disabled,p as Primary,n as WhitPrefix,c as __namedExportsOrder,s as default};
+//# sourceMappingURL=TextInput.stories.f5be5b58.js.map

@@ -1,0 +1,2 @@
+import{A as t}from"./index.f45995e0.js";import"./index.f80c2e97.js";import"./iframe.68ac2934.js";import"./index.7fe6f9d5.js";import"./jsx-runtime.00775778.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/roneyword.png",alt:"Roney henry berti"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.f5573663.js.map
